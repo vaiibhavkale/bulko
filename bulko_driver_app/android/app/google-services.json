@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "417010229849",
+    "firebase_url": "https://bulkotest-default-rtdb.firebaseio.com",
+    "project_id": "bulkotest",
+    "storage_bucket": "bulkotest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417010229849:android:e8c01c2aea00afe1b00748",
+        "android_client_info": {
+          "package_name": "com.bitinfusion.bulko.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417010229849-rcj7jh7v3jbo9n3ro4t6emhm0f97nrd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitinfusion.bulko.delivery",
+            "certificate_hash": "74357d1171a7cff9631c476a42ca35039147ac24"
+          }
+        },
+        {
+          "client_id": "417010229849-mmt7jdf8mrhrs64jcn7vdnulf74so9kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY-E2b8T6VdhTdr4rXZ3BvjAvQIhaYZ54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417010229849-mmt7jdf8mrhrs64jcn7vdnulf74so9kf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417010229849-2igpn5a1cmk8eakd49pg2id4341q3akp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bitinfusion.bulko.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417010229849:android:83246de4024c9331b00748",
+        "android_client_info": {
+          "package_name": "com.bitinfusion.bulko.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417010229849-mmt7jdf8mrhrs64jcn7vdnulf74so9kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY-E2b8T6VdhTdr4rXZ3BvjAvQIhaYZ54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417010229849-mmt7jdf8mrhrs64jcn7vdnulf74so9kf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417010229849-2igpn5a1cmk8eakd49pg2id4341q3akp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bitinfusion.bulko.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417010229849:android:a480b3ecca03dc2eb00748",
+        "android_client_info": {
+          "package_name": "com.bitinfusion.bulko.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417010229849-32du94jd9clmni129f2u24rj25q0darq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitinfusion.bulko.user",
+            "certificate_hash": "eecef43db84cced0a7c8a027be55a554baa37c31"
+          }
+        },
+        {
+          "client_id": "417010229849-mmt7jdf8mrhrs64jcn7vdnulf74so9kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY-E2b8T6VdhTdr4rXZ3BvjAvQIhaYZ54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417010229849-mmt7jdf8mrhrs64jcn7vdnulf74so9kf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "417010229849-2igpn5a1cmk8eakd49pg2id4341q3akp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bitinfusion.bulko.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

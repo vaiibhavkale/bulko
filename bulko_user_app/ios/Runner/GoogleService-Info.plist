@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>352076647507-roobnj8nfpn8h171r3mpe7lsoqj1ueqi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.352076647507-roobnj8nfpn8h171r3mpe7lsoqj1ueqi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>352076647507-0hogal1ojk3n38c0n6ojn8pc1pbkip30.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDRhRO8VUjflxFEj0JJXEYhCVz_5i8EHQg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>352076647507</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bitinfusion.bulko.user</string>
+	<key>PROJECT_ID</key>
+	<string>gogrocer-ab300</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gogrocer-ab300.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:352076647507:ios:047723908b7f8462268aa6</string>
+	<key>DATABASE_URL</key>
+	<string>https://gogrocer-ab300.firebaseio.com</string>
+</dict>
+</plist>
