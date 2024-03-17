@@ -1,1 +1,1 @@
-Full Stash food delivery application
+Full Stack food delivery application
